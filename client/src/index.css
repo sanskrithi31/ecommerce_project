@@ -1,0 +1,131 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.navbar {
+  font-family: sans-serif;
+  font-size: 19px;
+  line-height: 26px;
+  text-transform: uppercase;
+  box-shadow: 0 8px 6px -6px gray;
+  border-bottom: solid lightblue !important;
+}
+
+.nav-link {
+  font-weight: 300 !important;
+}
+
+.active {
+  border-bottom: 2px solid lightseagreen;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  font-family: sans-serif;
+  letter-spacing: 3px;
+}
+
+.search-form {
+  margin-right: 10px;
+  margin-top: 4px;
+}
+.search-form input {
+  border: none;
+  border-radius: 0;
+}
+.search-form button {
+  background-color: lightcoral;
+  border-radius: 0;
+  color: white;
+}
+
+
+
+.footer {
+  color: red;
+  padding: 25px;
+  background: #000000;
+  background: linear-gradient(to right, #434343, #000000);
+}
+
+.footer a {
+  text-decoration: none;
+  color: lightpink;
+  padding: 10px;
+}
+
+.footer a:hover {
+  color: lightgoldenrodyellow;
+  border-bottom: 1px solid lightgoldenrodyellow;
+}
+
+
+.pnf {
+  display: flex;
+  min-height: 65vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pnf-title {
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.pnf-heading {
+  font-weight: normal;
+}
+
+.pnf-btn {
+  color: gray;
+  border: 1px solid black;
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 10px;
+}
+.pnf-btn:hover {
+  background-color: gray;
+  color: lightgoldenrodyellow;
+}
+
+
+.contactus {
+  margin: 0;
+  padding: 0;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.product-link {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.cat-btn {
+  padding: 40px 0px;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+.cat-btn:hover {
+  background-color: lightgray;
+  color: red;
+}
+
+
+.dashboard {
+  margin-top: 120px !important;
+}
+
+.dashboard-menu h4 {
+  background-color: lightcyan !important;
+  color: black;
+  padding: 20px 0px;
+}

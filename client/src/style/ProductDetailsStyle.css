@@ -1,0 +1,68 @@
+.product-details {
+    margin-top: 50px; 
+    padding: 20px; 
+    background-color: #f5f5f5; 
+  }
+  
+  .product-details-info {
+    display: flex;
+    flex-direction: column;
+    align-items: right; 
+    padding: 20px; 
+    background-color: lightgoldenrodyellow; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .product-details-info h6 {
+    color: coral; 
+    margin-bottom: 15px; 
+  }
+  
+  .similar-products .card {
+    background-color: #ffffff; 
+    width: 18rem;
+    margin: 10px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .similar-products .card-name-price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px; 
+  }
+  
+  .similar-products .card-price {
+    color: coral; 
+    font-weight: bold;
+  }
+  
+  .similar-products button {
+    background-color: lightpink;
+    color: blue; 
+    padding: 10px 0; 
+    font-size: 16px; 
+    text-transform: uppercase; 
+    transition: background-color 0.3s ease; 
+  }
+  
+  .similar-products button:hover {
+    background-color: yellow; 
+  }
+  
+  .similar-products .card-text {
+    color: #707070; 
+  }
+  
+  .similar-products .card img:hover {
+    transform: scale(1.05); 
+  }
+  
+  .similar-products .card-img-top {
+    height: auto; 
+    width: 100%; 
+    object-fit: cover; 
+  }
+  

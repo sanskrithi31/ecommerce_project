@@ -1,0 +1,106 @@
+.main-img {
+    margin-top: 40px;
+    width: 90%; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.home-page h1 {
+    color: lightsalmon; 
+    font-family: "Playfair Display", serif;
+    text-align: center;
+}
+
+.home-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+}
+
+.home-page .card {
+    background-color: #f0f8ff; 
+    width: 18rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    border-radius: 5px; 
+    margin: 15px; 
+}
+
+.home-page .card-name-price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.home-page .card-price {
+    color: lightpink; 
+    font-weight: bold;
+}
+
+.home-page button {
+    background-color: #4682B4; 
+    color: white;
+    border: none;
+    border-radius: 0;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.home-page button:hover {
+    background-color: coral; 
+}
+
+.home-page .card-text {
+    color: #696969; 
+    padding: 0 10px;
+}
+
+.home-page .card img:hover {
+    transform: scale(1.05); 
+}
+
+.home-page .card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+}
+
+
+.filters {
+    padding: 20px;
+    background-color: #f8f8f8;
+    align-items: left;
+}
+
+.filters h4 {
+    margin-top: 10px; 
+    color: #808080; 
+    padding-bottom: 10px;
+}
+
+.filters .ant-radio-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; 
+}
+
+.filters .ant-radio-wrapper span {
+    margin-left: 5px; 
+}
+
+.filters button {
+    background-color: #4682B4; 
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 0;
+    margin-top: 20px;
+}
+
+.loadmore {
+    color: darkkhaki; 
+    font-weight: bold;
+    font-size: 16px; 
+}
