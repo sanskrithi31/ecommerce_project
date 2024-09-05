@@ -86,19 +86,28 @@ For further inquiries, feel free to contact me at sanskrithi.ananthula@gmail.com
 
 **Registration/Login Page**
 <img width="958" alt="pic10" src="https://github.com/user-attachments/assets/d68f4e6c-ce22-4c3c-b20e-757bf4fbd8b7">
+
 **Home Page**
 <img width="959" alt="pic1" src="https://github.com/user-attachments/assets/a22146af-e58a-4a22-804f-ff75929f19a7">
+
 **Product display and footer**
 <img width="959" alt="pic3" src="https://github.com/user-attachments/assets/ec701d08-9e78-48d6-b72f-bc383a313b81">
+
 **Categories**
 <img width="959" alt="pic4" src="https://github.com/user-attachments/assets/d568c912-1be5-4db2-89f6-66af8868a532">
+
 **Search Functionality**
 <img width="959" alt="pic5" src="https://github.com/user-attachments/assets/3674f178-b513-4ebb-a232-fee1c7b1c712">
+
 **Product Filtering**
 <img width="959" alt="pic6" src="https://github.com/user-attachments/assets/b995d18f-c094-4afc-9f97-9362e078fb15">
+
 **Admin Panel - Creating Category**
 <img width="959" alt="pic8" src="https://github.com/user-attachments/assets/b5588834-0fef-4dd8-b7f0-24d73a74136c">
+
 **Admin Panel - Creating Product**
 <img width="959" alt="pic9" src="https://github.com/user-attachments/assets/d0e3a260-56d9-44d3-9679-c1ac498a7a0c">
+
 **Shopping Cart**
 <img width="959" alt="pic11" src="https://github.com/user-attachments/assets/c927b055-9914-41ef-a88f-0e5b65f2d27e">
+
