@@ -71,13 +71,13 @@ Your project should now be running locally!
 
 ### Usage
 
-1.Create and Access Accounts : Sign up or log in to access personalized features.
+1.**Create and Access Accounts** : Sign up or log in to access personalized features.
 
-2.Explore and Purchase Items : View items, add them to your shopping cart, and complete your purchase.
+2.**Explore and Purchase Items** : View items, add them to your shopping cart, and complete your purchase.
 
-3.Account and Order Management : Update personal details and track your order history.
+3.**Account and Order Management** : Update personal details and track your order history.
 
-4.Admin Controls : For administrators, oversee and modify product listings, process orders, and manage user accounts through a specialized control panel.
+4.**Admin Controls** : For administrators, oversee and modify product listings, process orders, and manage user accounts through a specialized control panel.
 
 
 
