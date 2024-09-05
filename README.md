@@ -40,7 +40,7 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 * Open your terminal (or Command Prompt).
 * Navigate to the folder where you want to store the project.
 * Run the following command:
-    git clone https://github.com/username/repository-name.git
+  git clone https://github.com/username/repository-name.git
 
 3.Navigate to the Project Folder:
 * After cloning, move to the project folder:
