@@ -33,46 +33,34 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 * Authentication : JWT
 
 ##### Installation
-Install Git:
+1. Install Git:
+* If you don’t have Git installed, download it from Git's official website and install it.
 
-If you don’t have Git installed, download it from Git's official website and install it.
-Clone the GitHub Repository:
+2.Clone the GitHub Repository:
+* Open your terminal (or Command Prompt).
+* Navigate to the folder where you want to store the project.
+* Run the following command:
+    git clone https://github.com/username/repository-name.git
 
-Open your terminal (or Command Prompt).
-Navigate to the folder where you want to store the project.
-Run the following command:
-bash
-Copy code
-git clone https://github.com/username/repository-name.git
-Navigate to the Project Folder:
+3.Navigate to the Project Folder:
+* After cloning, move to the project folder:
+    cd repository-name
 
-After cloning, move to the project folder:
-bash
-Copy code
-cd repository-name
-Install Dependencies:
+4.Install Dependencies:
+* Most projects require dependencies to run. If the project uses Node.js, run:
+    npm install
+* For Python projects, use:
+    pip install -r requirements.txt
 
-Most projects require dependencies to run. If the project uses Node.js, run:
-bash
-Copy code
-npm install
-For Python projects, use:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Project:
+5.Run the Project:
+* For a Node.js project:
+  npm start
+* For Python projects, it might vary, but often:
+    python app.py
 
-For a Node.js project:
-bash
-Copy code
-npm start
-For Python projects, it might vary, but often:
-bash
-Copy code
-python app.py
-Check Configuration (Optional):
+6.Check Configuration (Optional):
+* Ensure that any configuration files (.env, config.json, etc.) are set up properly for your local environment.
 
-Ensure that any configuration files (.env, config.json, etc.) are set up properly for your local environment.
 Your project should now be running locally!
 
 
