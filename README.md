@@ -2,13 +2,7 @@
 
 ## Index
 
-#### 1.[Introduction](#introduction)<br>
-#### 2.[Features](#features)<br>
-#### 3.[Tech Stack](#tech-stack)<br>
-#### 4.[Installation](#installation)<br>
-#### 5.[Usage](#usage)<br>
-#### 6.[Contact](#contact)<br>
-#### 7.[Output](#output)
+#### 1.[Introduction](#introduction)<br>#### 2.[Features](#features)<br>#### 3.[Tech Stack](#tech-stack)<br>#### 4.[Installation](#installation)<br>#### 5.[Usage](#usage)<br>#### 6.[Contact](#contact)<br>#### 7.[Output](#output)
 
 
 
