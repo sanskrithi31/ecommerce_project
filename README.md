@@ -2,25 +2,37 @@
 
 ## Index
 
-### [1.Introduction]()
-### [1.Features]()
-### [1.Tech Stack]()
-### [1.]()
-### [1.Introduction]()
-### [1.Introduction]()
-### [1.Introduction]()
-### [1.Introduction]()
+#### [1.Introduction]()
+#### [2.Features]()
+#### [3.Tech Stack]()
+#### [4.Installation]()
+#### [5.Usage]()
+#### [6.Configuration]()
+#### [7.Contact]()
+#### [8.Output]()
 
 
 
-
+##### Introduction
 This dynamic e-commerce platform is designed to enhance user experience with intuitive navigation and real-time inventory updates. It includes a robust product filtering system and seamless user registration, making it easy for customers to find and purchase products efficiently. The platform is built to deliver a smooth and responsive shopping experience.
 
+##### Features
+* Seamless User Registration & Login
+* Real-Time Inventory Updates (CRUD)
+* Robust Product Filtering System
+* Responsive Design
+* Search Functionality
+* Shopping Cart and Wishlist
+* Intuitive Navigation
+* Admin Dashboard
 
+  ##### Tech Stack
+  * Frontend : HTML, CSS, JavaScript, React.js
+  * Backend : Node.js
+  * Database : MongoDB
+  * Authentication : JWT
 
-
-
-
+  ##### Installation
 
 
 
