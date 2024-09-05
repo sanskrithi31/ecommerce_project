@@ -13,10 +13,10 @@
 
 
 
-##### Introduction
+### Introduction
 This dynamic e-commerce platform is designed to enhance user experience with intuitive navigation and real-time inventory updates. It includes a robust product filtering system and seamless user registration, making it easy for customers to find and purchase products efficiently. The platform is built to deliver a smooth and responsive shopping experience.
 
-##### Features
+### Features
 * Seamless User Registration & Login
 * Real-Time Inventory Updates (CRUD)
 * Robust Product Filtering System
@@ -26,13 +26,13 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 * Intuitive Navigation
 * Admin Dashboard
 
-##### Tech Stack
+### Tech Stack
 * Frontend : HTML, CSS, JavaScript, React.js
 * Backend : Node.js
 * Database : MongoDB
 * Authentication : JWT
 
-##### Installation
+### Installation
 1. Install Git:
 * If you don’t have Git installed, download it from Git's official website and install it.
 
@@ -69,15 +69,15 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 
 Your project should now be running locally!
 
-##### Usage
+### Usage
 
-1.Create and Access Accounts: Sign up or log in to access personalized features.
+1.Create and Access Accounts : Sign up or log in to access personalized features.
 
-2.Explore and Purchase Items: View items, add them to your shopping cart, and complete your purchase.
+2.Explore and Purchase Items : View items, add them to your shopping cart, and complete your purchase.
 
-3.Account and Order Management: Update personal details and track your order history.
+3.Account and Order Management : Update personal details and track your order history.
 
-4.Admin Controls: For administrators, oversee and modify product listings, process orders, and manage user accounts through a specialized control panel.
+4.Admin Controls : For administrators, oversee and modify product listings, process orders, and manage user accounts through a specialized control panel.
 
 
 
