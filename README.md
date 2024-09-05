@@ -7,9 +7,11 @@
 
 
 ### Introduction
+
 This dynamic e-commerce platform is designed to enhance user experience with intuitive navigation and real-time inventory updates. It includes a robust product filtering system and seamless user registration, making it easy for customers to find and purchase products efficiently. The platform is built to deliver a smooth and responsive shopping experience.
 
 ### Features
+
 * Seamless User Registration & Login
 * Real-Time Inventory Updates (CRUD)
 * Robust Product Filtering System
@@ -20,12 +22,14 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 * Admin Dashboard
 
 ### Tech Stack
+
 * Frontend : HTML, CSS, JavaScript, React.js
 * Backend : Node.js
 * Database : MongoDB
 * Authentication : JWT
 
 ### Installation
+
 1. Install Git:
 * If you don’t have Git installed, download it from Git's official website and install it.
 
@@ -74,6 +78,7 @@ Your project should now be running locally!
 
 
 ### Contact
+
 For further inquiries, feel free to contact me at sanskrithi.ananthula@gmail.com
 
 ### Output
