@@ -3,6 +3,17 @@
 ## Index
 
 ### [1.Introduction]()
+### [1.Features]()
+### [1.Tech Stack]()
+### [1.]()
+### [1.Introduction]()
+### [1.Introduction]()
+### [1.Introduction]()
+### [1.Introduction]()
+
+
+
+
 This dynamic e-commerce platform is designed to enhance user experience with intuitive navigation and real-time inventory updates. It includes a robust product filtering system and seamless user registration, making it easy for customers to find and purchase products efficiently. The platform is built to deliver a smooth and responsive shopping experience.
 
 
