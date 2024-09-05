@@ -40,22 +40,28 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 * Open your terminal (or Command Prompt).
 * Navigate to the folder where you want to store the project.
 * Run the following command:
+  
   git clone https://github.com/username/repository-name.git
 
 3.Navigate to the Project Folder:
 * After cloning, move to the project folder:
+  
     cd repository-name
 
 4.Install Dependencies:
 * Most projects require dependencies to run. If the project uses Node.js, run:
+  
     npm install
 * For Python projects, use:
+  
     pip install -r requirements.txt
 
 5.Run the Project:
 * For a Node.js project:
+  
   npm start
 * For Python projects, it might vary, but often:
+  
     python app.py
 
 6.Check Configuration (Optional):
