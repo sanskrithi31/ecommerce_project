@@ -70,6 +70,7 @@ This dynamic e-commerce platform is designed to enhance user experience with int
 Your project should now be running locally!
 
 ##### Usage
+
 1.Create and Access Accounts: Sign up or log in to access personalized features.
 
 2.Explore and Purchase Items: View items, add them to your shopping cart, and complete your purchase.
